@@ -1,6 +1,8 @@
 # Open-Banking-Application
 
- <a href="https://youtu.be/5wrcifu4faA">Project link</a>  Execution video
+ <a href="https://youtu.be/5wrcifu4faA">Project link</a>  Execution video </br>
+
+ Project documentation is uploaded along with apk file in the above repository.
 
 ## PROJECT THEME : FIN-TECH
 
