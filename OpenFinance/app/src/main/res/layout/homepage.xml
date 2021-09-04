@@ -33,7 +33,7 @@
         app:srcCompat="@drawable/group7" />
 
     <Button
-        android:id="@+id/offers"
+        android:id="@+id/buttonoffers"
         android:layout_width="143dp"
         android:layout_height="60dp"
         android:backgroundTint="#09869B"
@@ -58,7 +58,7 @@
         app:srcCompat="@drawable/group8" />
 
     <Button
-        android:id="@+id/rewards"
+        android:id="@+id/buttonrewards"
         android:layout_width="131dp"
         android:layout_height="62dp"
         android:backgroundTint="#09869B"

@@ -9,6 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.OpenFinance">
+        <activity android:name=".support"></activity>
+        <activity android:name=".insights" />
+        <activity android:name=".offer2" />
+        <activity android:name=".offermap" />
+        <activity android:name=".scratch" />
+        <activity android:name=".rewards2" />
+        <activity android:name=".rewards1" />
+        <activity android:name=".homepage" />
+        <activity android:name=".loginpage" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
