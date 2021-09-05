@@ -84,7 +84,7 @@ So here we came up with a solution that can fulfil the client side demands with 
 ## Facing errors using sawo API
 
 <img alt="output"  src="output1.png" />
-<img alt="output"  src="output2.png" />
+<!-- <img alt="output"  src="output2.png" /> -->
 
 
 
