@@ -67,14 +67,24 @@ In the present world scenario, the number of internet users is booming, and ever
 So here we came up with a solution that can fulfil the client side demands with varieties of amazing features. The application has a very user-friendly interface and is available for all. It includes instruction videos that will help the user to figure out how to use the app; we have included a chat bot for 24x7 customer support, and we are also providing expert consultancy to help the users.
 
 
+## UI EXPLAINED
+### Sign-Up & Login 
+<img alt="output"  src="ui5.png" />
 
+### Home Page
+<img alt="output"  src="ui1.png" />
+
+### Offers Page
+<img alt="output"  src="ui3.png" />
+
+### Rewards & Stats Page
+<img alt="output"  src="ui4.png" />
+<img alt="output"  src="ui2.png" />
 
 ## Facing errors using sawo API
 
 <img alt="output"  src="output1.png" />
 <img alt="output"  src="output2.png" />
-
-
 
 
 
