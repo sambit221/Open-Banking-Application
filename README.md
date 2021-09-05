@@ -69,17 +69,17 @@ So here we came up with a solution that can fulfil the client side demands with 
 
 ## UI EXPLAINED
 ### Sign-Up & Login 
-<img alt="output"  src="ui5.png" />
+<img alt="output"  src="ui5.jpeg" />
 
 ### Home Page
-<img alt="output"  src="ui1.png" />
+<img alt="output"  src="ui1.jpeg" />
 
 ### Offers Page
-<img alt="output"  src="ui3.png" />
+<img alt="output"  src="ui3.jpeg" />
 
 ### Rewards & Stats Page
-<img alt="output"  src="ui4.png" />
-<img alt="output"  src="ui2.png" />
+<img alt="output"  src="ui4.jpeg" />
+<img alt="output"  src="ui2.jpeg" />
 
 ## Facing errors using sawo API
 
