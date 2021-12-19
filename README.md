@@ -81,10 +81,8 @@ So here we came up with a solution that can fulfil the client side demands with 
 <img alt="output"  src="ui4.jpeg" />
 <img alt="output"  src="ui2.jpeg" />
 
-## Facing errors using sawo API
 
-<img alt="output"  src="output1.png" />
-<!-- <img alt="output"  src="output2.png" /> -->
+
 
 
 
